@@ -1,0 +1,10 @@
+C:\Users\benja\Documents\Ben\CS_312\Project_1\Fermats\Fermats\bin\Debug\Fermats.exe.config
+C:\Users\benja\Documents\Ben\CS_312\Project_1\Fermats\Fermats\bin\Debug\Fermats.exe
+C:\Users\benja\Documents\Ben\CS_312\Project_1\Fermats\Fermats\bin\Debug\Fermats.pdb
+C:\Users\benja\Documents\Ben\CS_312\Project_1\Fermats\Fermats\obj\Debug\Fermats.csprojResolveAssemblyReference.cache
+C:\Users\benja\Documents\Ben\CS_312\Project_1\Fermats\Fermats\obj\Debug\Fermats.Form1.resources
+C:\Users\benja\Documents\Ben\CS_312\Project_1\Fermats\Fermats\obj\Debug\Fermats.Properties.Resources.resources
+C:\Users\benja\Documents\Ben\CS_312\Project_1\Fermats\Fermats\obj\Debug\Fermats.csproj.GenerateResource.Cache
+C:\Users\benja\Documents\Ben\CS_312\Project_1\Fermats\Fermats\obj\Debug\Fermats.csproj.CoreCompileInputs.cache
+C:\Users\benja\Documents\Ben\CS_312\Project_1\Fermats\Fermats\obj\Debug\Fermats.exe
+C:\Users\benja\Documents\Ben\CS_312\Project_1\Fermats\Fermats\obj\Debug\Fermats.pdb

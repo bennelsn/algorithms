@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fermats", "Fermats\Fermats.csproj", "{A3BCC16F-C2A8-4BFC-8E83-DF8B5925AB06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3BCC16F-C2A8-4BFC-8E83-DF8B5925AB06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3BCC16F-C2A8-4BFC-8E83-DF8B5925AB06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3BCC16F-C2A8-4BFC-8E83-DF8B5925AB06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3BCC16F-C2A8-4BFC-8E83-DF8B5925AB06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC558171-6311-49C5-A5CC-822FA63F7C9A}
+	EndGlobalSection
+EndGlobal

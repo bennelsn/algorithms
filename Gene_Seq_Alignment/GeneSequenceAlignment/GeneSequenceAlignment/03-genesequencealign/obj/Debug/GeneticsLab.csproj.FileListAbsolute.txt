@@ -1,0 +1,13 @@
+C:\Users\benja\Documents\Ben\CS_312\Project_4\GeneSequenceAlignment\GeneSequenceAlignment\03-genesequencealign\bin\Debug\GeneticsLab.exe.manifest
+C:\Users\benja\Documents\Ben\CS_312\Project_4\GeneSequenceAlignment\GeneSequenceAlignment\03-genesequencealign\bin\Debug\GeneticsLab.application
+C:\Users\benja\Documents\Ben\CS_312\Project_4\GeneSequenceAlignment\GeneSequenceAlignment\03-genesequencealign\bin\Debug\GeneticsLab.exe
+C:\Users\benja\Documents\Ben\CS_312\Project_4\GeneSequenceAlignment\GeneSequenceAlignment\03-genesequencealign\bin\Debug\GeneticsLab.pdb
+C:\Users\benja\Documents\Ben\CS_312\Project_4\GeneSequenceAlignment\GeneSequenceAlignment\03-genesequencealign\obj\Debug\GeneticsLab.MainForm.resources
+C:\Users\benja\Documents\Ben\CS_312\Project_4\GeneSequenceAlignment\GeneSequenceAlignment\03-genesequencealign\obj\Debug\GeneticsLab.Properties.Resources.resources
+C:\Users\benja\Documents\Ben\CS_312\Project_4\GeneSequenceAlignment\GeneSequenceAlignment\03-genesequencealign\obj\Debug\GeneticsLab.csproj.GenerateResource.Cache
+C:\Users\benja\Documents\Ben\CS_312\Project_4\GeneSequenceAlignment\GeneSequenceAlignment\03-genesequencealign\obj\Debug\GeneticsLab.csproj.CoreCompileInputs.cache
+C:\Users\benja\Documents\Ben\CS_312\Project_4\GeneSequenceAlignment\GeneSequenceAlignment\03-genesequencealign\obj\Debug\GeneticsLab.exe.manifest
+C:\Users\benja\Documents\Ben\CS_312\Project_4\GeneSequenceAlignment\GeneSequenceAlignment\03-genesequencealign\obj\Debug\GeneticsLab.application
+C:\Users\benja\Documents\Ben\CS_312\Project_4\GeneSequenceAlignment\GeneSequenceAlignment\03-genesequencealign\obj\Debug\GeneticsLab.exe
+C:\Users\benja\Documents\Ben\CS_312\Project_4\GeneSequenceAlignment\GeneSequenceAlignment\03-genesequencealign\obj\Debug\GeneticsLab.pdb
+C:\Users\benja\Documents\Ben\CS_312\Project_4\GeneSequenceAlignment\GeneSequenceAlignment\03-genesequencealign\obj\Debug\GeneticsLab.csprojResolveAssemblyReference.cache
